@@ -7,10 +7,10 @@
 
 ### In Container
 
-- ```./unity -batchmode -createManualActivationFile```
+- ```./unity -batchmode -nographics -createManualActivationFile```
 
 - Then activate it online
 
 - Afterwards
 
-- ```./unity -batchmode -manualLicenseFile <yourulffile> -logfile```
+- ```./unity -batchmode -nographics -manualLicenseFile <yourulffile> -logfile```
